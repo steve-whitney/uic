@@ -1,4 +1,4 @@
-# Key College Resources (Links)
+# Key College Resources (mostly just links)
 
 ## CHEM 122/123
 
@@ -25,9 +25,8 @@
 - resting != laziness
 - You do not have to be “PERFECT” to be VALID
 - Communicate to the best of your ability
-### dad says
-I love these. The stuff I couldn't read, I annotated with `[?]` (feel free to leave correct notes in comments below)
 
+_dad says: I love these. The stuff I couldn't read, I annotated with `[?]` (feel free to leave correct notes in comments below). I think the only one I don't get is `STEP UP, STEP BACK`, but the others are all awesome._
 
 ## Honors College (general)
 
@@ -36,4 +35,5 @@ I love these. The stuff I couldn't read, I annotated with `[?]` (feel free to le
   * scroll down to CURRICULUM (page 15) for clear requirements
   * (note: you may be prompted to install some bullsh.t "Box" app. If so, let me know and I will help.)
 2. [Honors College Requirements](https://catalog.uic.edu/ucat/colleges-depts/honors-college/) 
-  * Dad thinks the handbook is clearer.
+
+_dad says: I think the handbook is clearer._
